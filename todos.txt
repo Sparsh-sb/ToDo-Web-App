@@ -1,0 +1,6 @@
+Return the books
+Clean the bag
+Add the venv
+Create github repo
+Check for errors
+
